@@ -1,5 +1,5 @@
-**Matt's extra Tkinter projects
+**Matt's extra Tkinter projects**
 
-#Content (so far):
+#Content (so far):#
 
 *Random idea generator*
